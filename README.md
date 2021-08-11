@@ -1,6 +1,4 @@
 # README
-共通ページの設定修正待ち
-テーブルの修正待ち
 
 
 This README would normally document whatever steps are necessary to get the
