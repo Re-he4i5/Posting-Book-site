@@ -1,7 +1,5 @@
 # README
 
-logが非常に重いので，cloud9で開くときは消したほうがいい
-
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
