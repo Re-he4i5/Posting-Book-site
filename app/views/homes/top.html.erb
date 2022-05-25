@@ -1,25 +1,6 @@
+<h1>ようこそ<strong>Bookers</strong>へ！</h1>
 
-<div class="container">
-  <div class="row">
-    <div class="mx-auto">
-      <h1>welcome to 
-        <i class="fas fa-book"></i>Bookers !!
-      </h1>
-      <p>In
-        <i class="fas fa-book"></i>Bookers ,
-      </p>
-      <p>you can share and exchange your opinions , inpressions , and emotion</P>
-      <P>about various books!</P>
-      
-      <div class="btn-wrapper col-10 mx-auto">
-        <div class="row">  
-          <%= link_to "Log in", new_user_session_path, class: "btn btn-info btn-sm btn-block" %>
-        </div>
-        <br><div class="row">
-          <%= link_to "Sign up", new_user_registration_path, class: "btn btn-success btn-sm btn-block" %>
-        </div>  
-      </div>
-    </div>
-  </div>    
-</div>    
+<p><strong>Bookers</strong>では、さまざまな書籍に関するあなたの意見や</p>
+<p>印象を共有し交換することができます</p>
 
+<p><%= link_to "start", books_path %></p>
